@@ -140,7 +140,3 @@ def menu():
      btn1.pack(padx=10, pady=10)
 
      root.mainloop()
-
-
-
-print("Done")
